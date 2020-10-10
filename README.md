@@ -1,3 +1,5 @@
+![title](assets/img/title.png)
+
 # Connect 2
 
 **Connect 2** is a HTML5 game developed by me back in the 2014 as an attempt to learn more about HTML5, JS in particular, and how all this stuff works together inside an Android app.
